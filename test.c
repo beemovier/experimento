@@ -5,7 +5,7 @@ void saudacao() {
 }
 
 int main() {
-    printf("Hello, Worlda!\n");
+    printf("OLÁ MUNDO!\n");
     saudacao();
     return 0;
 }
