@@ -1,7 +1,10 @@
-#include <stdio.h>
+#include <stdio.h> 
+//Standard Input Output Header Cabeçalho de Entrada e Saida Padrão 
+//com ela podemos imprimir dados na tela como a função printf(), ler entrada com scanf(),
+//ou trabalhar com arquivos , usando funções como fopen() fread(), fwrite(), fclose().
 
 void saudacao() {
-    printf("OI, pessoas!\n");
+    printf("HELLO DIRETO DA FUNÇÃO!\n");
 }
 
 int main() {
