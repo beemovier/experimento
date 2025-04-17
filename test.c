@@ -4,7 +4,7 @@
 //ou trabalhar com arquivos , usando funções como fopen() fread(), fwrite(), fclose().
 
 void saudacao() {
-    printf("HELLO DIRETO DA FUNÇÃO!\n");
+    printf("HELLO DIRETO DA FUNCTION!\n");
 }
 
 int main() {
